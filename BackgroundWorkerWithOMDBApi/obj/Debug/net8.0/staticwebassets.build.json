@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Utr6F8xlj5rRbxaNzLsXcK5bVWb1YwWws98kgOFVUa4=",
+  "Source": "BackgroundWorkerWithOMDBApi",
+  "BasePath": "_content/BackgroundWorkerWithOMDBApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
